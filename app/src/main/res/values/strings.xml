@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Mantiss TV</string>
+    <string name="content_description">none</string>
+    <string name="image_description">img</string>
+    <string name="shared_preferences">sp</string>
+    <!-- Buttons -->
+    <string name="accept_button_label">Guardar</string>
+    <string name="cancel_button_label">Cancelar</string>
+    <string name="positive_button">Aceptar</string>
+    <string name="negative_button">Cancelar</string>
+
+    <!-- Main Activity -->
+    <string name="title_cannot_connect">Conexión Fallida</string>
+    <string name="title_connection_lost">Conexión Perdida</string>
+    <string name="message_connection_lost">¿Desea intentar una nueva conexión?</string>
+    <string name="title">Lorem Ipsum</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+
+    <!-- Splash Strings -->
+    <string name="unicauca">Universidad del Cauca</string>
+    <string name="year">2015</string>
+
+    <!-- Settings Dialog -->
+    <string name="ipConfigTitle">Ingresa la dirección ip y puerto</string>
+    <string name="urlHint">192.168.0.20</string>
+    <string name="portHint">8080</string>
+    <string name="configuration">Configuración</string>
+    <string name="ipServer">IP Servidor:</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
